@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DjPXjh7HLfm7tAE7h59U9VBiWvH6lUcnMdDHhGEWlZjaZxCKrIG4vC+unnTXhLc7B/iUXVTKxYZOUDquSZqwYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\source\\repos\\caCodingTest\\caCodingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
